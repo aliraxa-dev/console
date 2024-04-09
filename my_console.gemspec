@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
 
   spec.summary = "A gem for logging messages to the terminal"
   spec.description = "This gem provides a simple way to print messages with color to the terminal."
-  spec.homepage = "https://github.com/aliraza-stack/my_console"
+  spec.homepage = "https://github.com/aliraza-stack/console"
   spec.license = "MIT"
   spec.required_ruby_version = ">= 2.6.0"
 
